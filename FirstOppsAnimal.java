@@ -1,5 +1,7 @@
 
 public class FirstOppsAnimal {
+    String color;
+    int age;
     public void eat() {
         System.out.println("Dog is Eating");
     }
